@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkjob_board_software=self.webpackChunkjob_board_software||[]).push([[5263],{95263:(s,e,a)=>{a.r(e),a.d(e,{default:()=>o});a(72791);var r=a(80184);const o=()=>(0,r.jsx)("div",{children:(0,r.jsx)("h1",{})})}}]);
+//# sourceMappingURL=5263.1b23cf1e.chunk.js.map
